@@ -1,0 +1,12 @@
+# Header
+
+
+This time is by my self... what realy i'll do?
+    - Create Folder locally that holdes all the repository in it
+    - Create a File in it
+    - Initialize repository for it using a keyword 'add' or 'git add'
+    - Commit or save/update it with message and description for the message
+    - Push or uplode it to remote repository.. like GitHub
+        - Remote it using the repository link that created in another machine,
+          because we first create the folder and come all the process locally within the local machine
+        - Then push it to a remote machine repository using a keyword 'git push origin master'
