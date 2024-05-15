@@ -1,3 +1,5 @@
-<head>
+<html>
+<head></head>
+<body>
 <p>something</p>
-</head>
+<u>Some underlines</u></body></html>
