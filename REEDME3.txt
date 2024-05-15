@@ -10,3 +10,8 @@ This time is by my self... what realy i'll do?
         - Remote it using the repository link that created in another machine,
           because we first create the folder and come all the process locally within the local machine
         - Then push it to a remote machine repository using a keyword 'git push origin master'
+
+## Another Header for branching stuffs
+	- First we locate to a folder that pushed to the remote repository like GitHub..
+	- Seconde we create a branch on a master branch to finally in the hope of to mergeit after some changes
+	-
